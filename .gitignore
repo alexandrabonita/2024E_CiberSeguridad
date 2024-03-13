@@ -1,0 +1,11 @@
+# Excluir la carpeta node_modules
+node_modules/
+
+# Excluir archivos temporales con extensión .tmp
+*.tmp
+
+# Excluir el archivo de configuración local .env
+.env
+
+# Excluir archivos de log
+*.log
